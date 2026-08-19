@@ -37,12 +37,12 @@ for i,j in dict.items():
     if j>50:
         print(i)
 
+
 #Q4.Write a script that reads a text file and prints its line count — handle the file-not-found case gracefully with try/except.
-f=open(r'C:\Users\FCI\Desktop\PMS\Python\data.txt')
+f=open(r'C:\Users\FCI\Desktop\PMS\Python\data.txt','r')
 print(f.read())
-#Q4.Write a script that reads a text file and prints its line count — handle the file-not-found case gracefully with try/except.
-f=open(r'C:\Users\FCI\Desktop\PMS\Python\data.txt')
-print(f.read())
+f=open(r'C:\Users\FCI\Desktop\PMS\Python\data.txt','r')
+print(f"Lines: {len(f.readlines())}")
 
 #Q5Write a function with default arguments and *args that calculates the average of any number of values, with input validation.
 def average(*num):
