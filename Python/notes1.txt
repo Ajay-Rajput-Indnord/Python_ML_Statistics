@@ -1,0 +1,3 @@
+Name: Ajay 
+ Age: 25 
+ City: KolhapurPython is easy

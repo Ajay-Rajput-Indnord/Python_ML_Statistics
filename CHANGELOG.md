@@ -27,6 +27,44 @@ The changelog records regular practice, new concepts, exercises, experiments, an
 * NLP fundamentals
 
 ---
+## 2026-09-02
+
+### Added
+
+- Added `Python\improve_code.ipynb`.
+- Practiced Python file handling, error handling, generator and decorator.
+#- Started NLP text-cleaning practice.
+
+### Learning
+
+- syntex of file and error handling.
+- how to use decorator function and yield generator function.
+
+### Next
+
+- text preprocessing from basic to advance.
+- practic more for clear understanding modues, packeges, import test basics.
+- Complete module separation and three unit tests.
+- Complete API/JSON understanding.
+## 2026-08-28
+
+### Added
+
+- Added `weekly_assessment/week3_assessment_ajay.ipynb`.
+- Practiced Python OOP concepts with `BankAccount` and `SavingsAccount` classes.
+- Started NLP text-cleaning practice.
+
+### Learning
+
+- Reviewed encapsulation, inheritance, deposits, withdrawals, and balance retrieval.
+- Began exploring text normalization with lowercasing and token-based cleaning.
+
+### Next
+
+- Add validation for negative deposits and withdrawals.
+- Implement savings-account interest calculation.
+- Complete module separation and three unit tests.
+- Complete API/JSON, decorator/generator, and NLP preprocessing assessment tasks.
 
 ## 2026-08-26
 
@@ -63,28 +101,28 @@ For future practice sessions, use the following format:
 
 ```markdown
 ## YYYY-MM-DD
+## 2026-08-28
+
 
 ### Added
 
-- Added ...
+- Added  Week3 assessment file 
 - Created ...
 - Practiced ...
 
 ### Learning
 
-- Learned ...
+- Learned oops consepts, generator and decoretors, json, api , NLP
 - Reviewed ...
 - Implemented ...
 
 ### Changed
 
-- Improved ...
-- Refactored ...
-- Updated ...
+- add week3 assessment file 
 
 ### Git
 
-- Commit: `commit message`
+- Commit: `week3 assessment`
 
 ### Next
 
