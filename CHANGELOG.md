@@ -32,7 +32,7 @@ The changelog records regular practice, new concepts, exercises, experiments, an
 
 - Added `Python\logging\my_logging.py`.
 - Practiced Python logging with it's parameter INFO(),WARNING(),ERROR(),DEBUG(),CRITICAL().
-#- Started NLP text-cleaning practice.
+
 
 ### Learning
 
