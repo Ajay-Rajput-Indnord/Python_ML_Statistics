@@ -4,7 +4,7 @@
 
 This repository is a personal learning workspace for Python, Machine Learning, Deep Learning, and NLP practice. Work is organized primarily as scripts and Jupyter notebooks.
 
-The latest work is `\Python\improve_code.ipynb`, which contains partially coding improvment exercises.
+The latest work is `Python\logging\my_logging.py`, which contains partially coding improvment exercises.
 
 ## Latest Work
 
@@ -12,10 +12,10 @@ The latest work is `\Python\improve_code.ipynb`, which contains partially coding
 
 The notebook includes five topics:
 
-1. file handling
-2. error handaling
-3. Decorators
-4. generators
+1.  how to use logging
+2. console and file handler in logging
+3. formatter
+4. setlevel in logging
 
 
 
@@ -24,15 +24,15 @@ The notebook includes five topics:
 | File | Purpose |
 |---|---|
 | `Python\improve_code.ipynb` | Current incomplete still working on this notebook |
-| `weekly_assessment/week2_assessment_ajay.ipynb` | Previous assessment practice |
+| `Python\logging\my_logging.py` | logging code  practice |
 | `ML/` | Machine Learning learning notebooks |
 | `Python/` | Python fundamentals and OOP practice |
 | `CHANGELOG.md` | Record of learning progress and repository changes |
 
-## Current Issues in improve_code
+## Current Issues in my_logging
 
 -  still practicing basic quetions only
-- need to work on pandas, numpy, OOPs and many other things
+- need to work on logging along with this concepts pandas, numpy, OOPs and many other things
 - Module, tests, API, decorator/generator, and NLP tasks are unfinished.
 #- The NLP code modifies a list while iterating and does not yet meet the required preprocessing pipeline.
 
