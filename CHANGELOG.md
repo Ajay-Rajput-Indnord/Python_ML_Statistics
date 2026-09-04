@@ -26,6 +26,27 @@ The changelog records regular practice, new concepts, exercises, experiments, an
 * Deep Learning fundamentals
 * NLP fundamentals
 
+## 2026-09-04
+
+### Added
+
+- Added `Python\logging\my_logging.py`.
+- Practiced Python logging with it's parameter INFO(),WARNING(),ERROR(),DEBUG(),CRITICAL().
+#- Started NLP text-cleaning practice.
+
+### Learning
+
+- syntex of setlevel and console and file handeler.
+- how to use formatter and add the perticular formate for logger.
+
+### Next
+
+- text preprocessing from basic to advance.
+- practic more for clear understanding modues, packeges, import test basics.
+- Complete module separation and three unit tests.
+- Complete API/JSON understanding.
+
+
 ---
 ## 2026-09-02
 
